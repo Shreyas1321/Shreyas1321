@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shreyas1321
+- 👋 Hi, I’m Shreyas S
 - 👀 I’m interested in Programming...
 - 🌱 I’m currently learning ..
-- 📫 How to reach me follow shreyas13.__ ...
+- 📫 How to reach me follow @shreyas13.__ ...
 
 <!---
 Shreyas1321/Shreyas1321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
